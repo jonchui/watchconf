@@ -1,0 +1,2 @@
+This commit is intentionally weird.
+Watch app compiles; vibe still chaotic.
