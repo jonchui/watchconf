@@ -14,8 +14,8 @@ class InterfaceController: WKInterfaceController {
 
     @IBOutlet weak var handleMovie: WKInterfaceMovie!
     
-    override func awakeWithContext(context: AnyObject?) {
-        super.awakeWithContext(context)
+    override func awake(withContext context: Any?) {
+        super.awake(withContext: context)
         
         let initialImage = WKImage(imageName: "Sample1")
 
